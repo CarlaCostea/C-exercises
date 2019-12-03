@@ -1,61 +1,89 @@
 ﻿using System;
 
-namespace _6din49
+
+namespace Anagrame
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string num = Console.ReadLine();
-            int totalballs = Convert.ToInt32(num);
-            string numy = Console.ReadLine();
-            int extballs = Convert.ToInt32(numy);
-            string cat = Console.ReadLine();
-            double cnk;
-            double ckj;
+            string cuvant = Console.ReadLine();
+            string cuv = noDups(cuvant);
+           
+            int nrk= cuv.Length ;
+            int n = cuvant.Length;
+            double baza = 1;
+            double anagrams;
 
-            int ncat = Nncat(ref cat, ref extballs);
+            int[] Occ = new int[nrk];
 
-            cnk = CombineNK(ref totalballs, ref extballs);
-            ckj = CombineNK(ref extballs, ref ncat); 
-            int nmink = totalballs - extballs;
-            int kminj = extballs - ncat;
-            double cnkkj = CombineNK(ref nmink, ref kminj);
-            double odds = (ckj * cnkkj) / cnk;
-            Console.WriteLine("{0:N10}", odds);
+            Occurrences(cuvant, Occ);
 
-        }
-        static double CombineNK(ref int n, ref int k)
-        {
-            return Factorial(n) / (Factorial(k) * Factorial(n - k));
-        }
-        static double Factorial(int number)
+            for (int i = 0; i < nrk; i++)
+                baza = baza * Factorial(Occ[i]);
+
+            anagrams = Factorial(n) / baza;
+
+            //Console.WriteLine(Factorial(n));
+            Console.WriteLine(anagrams);
+
+
+
+
+
+
+
+            static double Factorial(int number)
             {
                 if (number == 1 || number == 0)
                     return 1;
                 else
                     return number * Factorial(number - 1);
             }
+            
+            
+        }
 
-        static int Nncat(ref string text, ref int extb)
+        static int[] Occurrences(string input, int[] Occurrence)
         {
-            switch (text)
+            int i = 0;
+            while (input.Length > 0)
             {
-                case "I":
-                    return extb;
-                case "II":
-                    return extb - 1;
-                case "III":
-                    return extb - 2;
-                default:
-                    Console.WriteLine("Select Category:I, II or III");
-                    return 0;
+                //Console.Write(input[0] + " : ");
+                int count = 0;
+               
+                for (int j = 0; j < input.Length; j++)
+                {
+                    if (input[0] == input[j])
+                    {
+                        count++;
+                    }
+                    
+                }
+                Occurrence[i] = count;
+                //Console.WriteLine(Occurrence[i]);
+                i++;
+
+                input = input.Replace(input[0].ToString(), string.Empty);
+               // return Occurrence;
             }
+            return Occurrence;
+        }
+
+
+        static string noDups(string word)
+        {
+            string table = "";
+
+            foreach (var character in word)
+            {
+                if (table.IndexOf(character) == -1)
+                {
+                    table += character; 
+                }
+            }
+            return table;
         }
     }
+
 }
-
-        
-         
-    
-
