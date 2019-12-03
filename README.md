@@ -1,2 +1,2 @@
-# C-exercises
+# C Sharp-exercises
 Learning Process
