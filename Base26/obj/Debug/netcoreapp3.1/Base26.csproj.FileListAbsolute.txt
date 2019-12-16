@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\Base26\bin\Debug\netcoreapp3.1\Base26.exe
+C:\Users\carla\source\repos\Base26\bin\Debug\netcoreapp3.1\Base26.deps.json
+C:\Users\carla\source\repos\Base26\bin\Debug\netcoreapp3.1\Base26.runtimeconfig.json
+C:\Users\carla\source\repos\Base26\bin\Debug\netcoreapp3.1\Base26.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Base26\bin\Debug\netcoreapp3.1\Base26.dll
+C:\Users\carla\source\repos\Base26\bin\Debug\netcoreapp3.1\Base26.pdb
+C:\Users\carla\source\repos\Base26\obj\Debug\netcoreapp3.1\Base26.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Base26\obj\Debug\netcoreapp3.1\Base26.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Base26\obj\Debug\netcoreapp3.1\Base26.AssemblyInfo.cs
+C:\Users\carla\source\repos\Base26\obj\Debug\netcoreapp3.1\Base26.dll
+C:\Users\carla\source\repos\Base26\obj\Debug\netcoreapp3.1\Base26.pdb
