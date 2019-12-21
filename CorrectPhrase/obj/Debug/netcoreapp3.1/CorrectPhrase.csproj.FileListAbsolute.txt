@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\CorrectPhrase\bin\Debug\netcoreapp3.1\CorrectPhrase.exe
+C:\Users\carla\source\repos\CorrectPhrase\bin\Debug\netcoreapp3.1\CorrectPhrase.deps.json
+C:\Users\carla\source\repos\CorrectPhrase\bin\Debug\netcoreapp3.1\CorrectPhrase.runtimeconfig.json
+C:\Users\carla\source\repos\CorrectPhrase\bin\Debug\netcoreapp3.1\CorrectPhrase.runtimeconfig.dev.json
+C:\Users\carla\source\repos\CorrectPhrase\bin\Debug\netcoreapp3.1\CorrectPhrase.dll
+C:\Users\carla\source\repos\CorrectPhrase\bin\Debug\netcoreapp3.1\CorrectPhrase.pdb
+C:\Users\carla\source\repos\CorrectPhrase\obj\Debug\netcoreapp3.1\CorrectPhrase.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\CorrectPhrase\obj\Debug\netcoreapp3.1\CorrectPhrase.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\CorrectPhrase\obj\Debug\netcoreapp3.1\CorrectPhrase.AssemblyInfo.cs
+C:\Users\carla\source\repos\CorrectPhrase\obj\Debug\netcoreapp3.1\CorrectPhrase.dll
+C:\Users\carla\source\repos\CorrectPhrase\obj\Debug\netcoreapp3.1\CorrectPhrase.pdb
