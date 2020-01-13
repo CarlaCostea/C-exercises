@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\BinaryOperations\bin\Debug\netcoreapp3.1\BinaryOperations.exe
+C:\Users\carla\source\repos\BinaryOperations\bin\Debug\netcoreapp3.1\BinaryOperations.deps.json
+C:\Users\carla\source\repos\BinaryOperations\bin\Debug\netcoreapp3.1\BinaryOperations.runtimeconfig.json
+C:\Users\carla\source\repos\BinaryOperations\bin\Debug\netcoreapp3.1\BinaryOperations.runtimeconfig.dev.json
+C:\Users\carla\source\repos\BinaryOperations\bin\Debug\netcoreapp3.1\BinaryOperations.dll
+C:\Users\carla\source\repos\BinaryOperations\bin\Debug\netcoreapp3.1\BinaryOperations.pdb
+C:\Users\carla\source\repos\BinaryOperations\obj\Debug\netcoreapp3.1\BinaryOperations.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\BinaryOperations\obj\Debug\netcoreapp3.1\BinaryOperations.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\BinaryOperations\obj\Debug\netcoreapp3.1\BinaryOperations.AssemblyInfo.cs
+C:\Users\carla\source\repos\BinaryOperations\obj\Debug\netcoreapp3.1\BinaryOperations.dll
+C:\Users\carla\source\repos\BinaryOperations\obj\Debug\netcoreapp3.1\BinaryOperations.pdb
