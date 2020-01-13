@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.deps.json
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.runtimeconfig.json
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.runtimeconfig.dev.json
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.dll
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\bin\Debug\netcoreapp2.0\KnowledgeContest.pdb
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.AssemblyInfo.cs
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.dll
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.pdb
+C:\Users\carla\source\repos\KnowledgeContest\KnowledgeContest\obj\Debug\netcoreapp2.0\KnowledgeContest.csprojAssemblyReference.cache

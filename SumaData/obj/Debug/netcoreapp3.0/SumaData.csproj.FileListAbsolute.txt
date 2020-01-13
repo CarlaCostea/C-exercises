@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\SumaData.exe
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\SumaData.deps.json
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\SumaData.runtimeconfig.json
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\SumaData.runtimeconfig.dev.json
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\SumaData.dll
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\SumaData.pdb
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\SumaData.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\SumaData.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\SumaData.AssemblyInfo.cs
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\SumaData.dll
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\SumaData.pdb

@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\bin\Debug\netcoreapp2.0\AveragePrice.deps.json
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\bin\Debug\netcoreapp2.0\AveragePrice.runtimeconfig.json
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\bin\Debug\netcoreapp2.0\AveragePrice.runtimeconfig.dev.json
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\bin\Debug\netcoreapp2.0\AveragePrice.dll
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\bin\Debug\netcoreapp2.0\AveragePrice.pdb
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\obj\Debug\netcoreapp2.0\AveragePrice.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\obj\Debug\netcoreapp2.0\AveragePrice.AssemblyInfo.cs
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\obj\Debug\netcoreapp2.0\AveragePrice.dll
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\obj\Debug\netcoreapp2.0\AveragePrice.pdb
+C:\Users\carla\source\repos\AveragePrice\AveragePrice\obj\Debug\netcoreapp2.0\AveragePrice.csprojAssemblyReference.cache

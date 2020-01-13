@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\CharsCountUgly\bin\Debug\netcoreapp2.1\CharsCountUgly.deps.json
+C:\Users\carla\source\repos\CharsCountUgly\bin\Debug\netcoreapp2.1\CharsCountUgly.runtimeconfig.json
+C:\Users\carla\source\repos\CharsCountUgly\bin\Debug\netcoreapp2.1\CharsCountUgly.runtimeconfig.dev.json
+C:\Users\carla\source\repos\CharsCountUgly\bin\Debug\netcoreapp2.1\CharsCountUgly.dll
+C:\Users\carla\source\repos\CharsCountUgly\bin\Debug\netcoreapp2.1\CharsCountUgly.pdb
+C:\Users\carla\source\repos\CharsCountUgly\obj\Debug\netcoreapp2.1\CharsCountUgly.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\CharsCountUgly\obj\Debug\netcoreapp2.1\CharsCountUgly.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\CharsCountUgly\obj\Debug\netcoreapp2.1\CharsCountUgly.AssemblyInfo.cs
+C:\Users\carla\source\repos\CharsCountUgly\obj\Debug\netcoreapp2.1\CharsCountUgly.dll
+C:\Users\carla\source\repos\CharsCountUgly\obj\Debug\netcoreapp2.1\CharsCountUgly.pdb

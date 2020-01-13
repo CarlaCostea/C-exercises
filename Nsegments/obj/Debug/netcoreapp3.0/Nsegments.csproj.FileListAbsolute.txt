@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\Nsegments\bin\Debug\netcoreapp3.0\Nsegments.exe
+C:\Users\carla\source\repos\Nsegments\bin\Debug\netcoreapp3.0\Nsegments.deps.json
+C:\Users\carla\source\repos\Nsegments\bin\Debug\netcoreapp3.0\Nsegments.runtimeconfig.json
+C:\Users\carla\source\repos\Nsegments\bin\Debug\netcoreapp3.0\Nsegments.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Nsegments\bin\Debug\netcoreapp3.0\Nsegments.dll
+C:\Users\carla\source\repos\Nsegments\bin\Debug\netcoreapp3.0\Nsegments.pdb
+C:\Users\carla\source\repos\Nsegments\obj\Debug\netcoreapp3.0\Nsegments.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Nsegments\obj\Debug\netcoreapp3.0\Nsegments.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Nsegments\obj\Debug\netcoreapp3.0\Nsegments.AssemblyInfo.cs
+C:\Users\carla\source\repos\Nsegments\obj\Debug\netcoreapp3.0\Nsegments.dll
+C:\Users\carla\source\repos\Nsegments\obj\Debug\netcoreapp3.0\Nsegments.pdb

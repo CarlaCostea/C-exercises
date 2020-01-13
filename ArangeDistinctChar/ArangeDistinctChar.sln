@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArangeDistinctChar", "ArangeDistinctChar.csproj", "{323E3767-0F3E-4EC6-8808-927DA2EBCD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323E3767-0F3E-4EC6-8808-927DA2EBCD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323E3767-0F3E-4EC6-8808-927DA2EBCD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323E3767-0F3E-4EC6-8808-927DA2EBCD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323E3767-0F3E-4EC6-8808-927DA2EBCD01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72828580-DF2E-4CB7-9AFF-87D5FA4F6CA8}
+	EndGlobalSection
+EndGlobal

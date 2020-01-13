@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\Stringuri.exe
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\Stringuri.deps.json
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\Stringuri.runtimeconfig.json
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\Stringuri.runtimeconfig.dev.json
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\Stringuri.dll
+C:\Users\carla\source\repos\SumaData\bin\Debug\netcoreapp3.0\Stringuri.pdb
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\Stringuri.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\Stringuri.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\Stringuri.AssemblyInfo.cs
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\Stringuri.dll
+C:\Users\carla\source\repos\SumaData\obj\Debug\netcoreapp3.0\Stringuri.pdb

@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\livezi\bin\Debug\netcoreapp3.0\livezi.exe
+C:\Users\carla\source\repos\livezi\bin\Debug\netcoreapp3.0\livezi.deps.json
+C:\Users\carla\source\repos\livezi\bin\Debug\netcoreapp3.0\livezi.runtimeconfig.json
+C:\Users\carla\source\repos\livezi\bin\Debug\netcoreapp3.0\livezi.runtimeconfig.dev.json
+C:\Users\carla\source\repos\livezi\bin\Debug\netcoreapp3.0\livezi.dll
+C:\Users\carla\source\repos\livezi\bin\Debug\netcoreapp3.0\livezi.pdb
+C:\Users\carla\source\repos\livezi\obj\Debug\netcoreapp3.0\livezi.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\livezi\obj\Debug\netcoreapp3.0\livezi.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\livezi\obj\Debug\netcoreapp3.0\livezi.AssemblyInfo.cs
+C:\Users\carla\source\repos\livezi\obj\Debug\netcoreapp3.0\livezi.dll
+C:\Users\carla\source\repos\livezi\obj\Debug\netcoreapp3.0\livezi.pdb

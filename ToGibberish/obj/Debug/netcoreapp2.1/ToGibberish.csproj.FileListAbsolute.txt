@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.deps.json
+C:\Users\carla\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.runtimeconfig.json
+C:\Users\carla\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.runtimeconfig.dev.json
+C:\Users\carla\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.dll
+C:\Users\carla\source\repos\ToGibberish\bin\Debug\netcoreapp2.1\ToGibberish.pdb
+C:\Users\carla\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.AssemblyInfo.cs
+C:\Users\carla\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.dll
+C:\Users\carla\source\repos\ToGibberish\obj\Debug\netcoreapp2.1\ToGibberish.pdb

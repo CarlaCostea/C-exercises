@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\TestStil\bin\Debug\netcoreapp3.0\TestStil.exe
+C:\Users\carla\source\repos\TestStil\bin\Debug\netcoreapp3.0\TestStil.deps.json
+C:\Users\carla\source\repos\TestStil\bin\Debug\netcoreapp3.0\TestStil.runtimeconfig.json
+C:\Users\carla\source\repos\TestStil\bin\Debug\netcoreapp3.0\TestStil.runtimeconfig.dev.json
+C:\Users\carla\source\repos\TestStil\bin\Debug\netcoreapp3.0\TestStil.dll
+C:\Users\carla\source\repos\TestStil\bin\Debug\netcoreapp3.0\TestStil.pdb
+C:\Users\carla\source\repos\TestStil\obj\Debug\netcoreapp3.0\TestStil.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\TestStil\obj\Debug\netcoreapp3.0\TestStil.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\TestStil\obj\Debug\netcoreapp3.0\TestStil.AssemblyInfo.cs
+C:\Users\carla\source\repos\TestStil\obj\Debug\netcoreapp3.0\TestStil.dll
+C:\Users\carla\source\repos\TestStil\obj\Debug\netcoreapp3.0\TestStil.pdb

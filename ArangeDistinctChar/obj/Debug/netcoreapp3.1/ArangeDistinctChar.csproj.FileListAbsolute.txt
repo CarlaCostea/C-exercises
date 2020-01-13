@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\ArangeDistinctChar\bin\Debug\netcoreapp3.1\ArangeDistinctChar.exe
+C:\Users\carla\source\repos\ArangeDistinctChar\bin\Debug\netcoreapp3.1\ArangeDistinctChar.deps.json
+C:\Users\carla\source\repos\ArangeDistinctChar\bin\Debug\netcoreapp3.1\ArangeDistinctChar.runtimeconfig.json
+C:\Users\carla\source\repos\ArangeDistinctChar\bin\Debug\netcoreapp3.1\ArangeDistinctChar.runtimeconfig.dev.json
+C:\Users\carla\source\repos\ArangeDistinctChar\bin\Debug\netcoreapp3.1\ArangeDistinctChar.dll
+C:\Users\carla\source\repos\ArangeDistinctChar\bin\Debug\netcoreapp3.1\ArangeDistinctChar.pdb
+C:\Users\carla\source\repos\ArangeDistinctChar\obj\Debug\netcoreapp3.1\ArangeDistinctChar.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\ArangeDistinctChar\obj\Debug\netcoreapp3.1\ArangeDistinctChar.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\ArangeDistinctChar\obj\Debug\netcoreapp3.1\ArangeDistinctChar.AssemblyInfo.cs
+C:\Users\carla\source\repos\ArangeDistinctChar\obj\Debug\netcoreapp3.1\ArangeDistinctChar.dll
+C:\Users\carla\source\repos\ArangeDistinctChar\obj\Debug\netcoreapp3.1\ArangeDistinctChar.pdb

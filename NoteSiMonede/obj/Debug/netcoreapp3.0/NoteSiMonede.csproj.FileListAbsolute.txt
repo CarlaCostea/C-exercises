@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\NoteSiMonede\bin\Debug\netcoreapp3.0\NoteSiMonede.exe
+C:\Users\carla\source\repos\NoteSiMonede\bin\Debug\netcoreapp3.0\NoteSiMonede.deps.json
+C:\Users\carla\source\repos\NoteSiMonede\bin\Debug\netcoreapp3.0\NoteSiMonede.runtimeconfig.json
+C:\Users\carla\source\repos\NoteSiMonede\bin\Debug\netcoreapp3.0\NoteSiMonede.runtimeconfig.dev.json
+C:\Users\carla\source\repos\NoteSiMonede\bin\Debug\netcoreapp3.0\NoteSiMonede.dll
+C:\Users\carla\source\repos\NoteSiMonede\bin\Debug\netcoreapp3.0\NoteSiMonede.pdb
+C:\Users\carla\source\repos\NoteSiMonede\obj\Debug\netcoreapp3.0\NoteSiMonede.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\NoteSiMonede\obj\Debug\netcoreapp3.0\NoteSiMonede.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\NoteSiMonede\obj\Debug\netcoreapp3.0\NoteSiMonede.AssemblyInfo.cs
+C:\Users\carla\source\repos\NoteSiMonede\obj\Debug\netcoreapp3.0\NoteSiMonede.dll
+C:\Users\carla\source\repos\NoteSiMonede\obj\Debug\netcoreapp3.0\NoteSiMonede.pdb

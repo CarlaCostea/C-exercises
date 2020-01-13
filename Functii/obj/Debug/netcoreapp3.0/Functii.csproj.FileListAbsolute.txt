@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\Functii\bin\Debug\netcoreapp3.0\Functii.exe
+C:\Users\carla\source\repos\Functii\bin\Debug\netcoreapp3.0\Functii.deps.json
+C:\Users\carla\source\repos\Functii\bin\Debug\netcoreapp3.0\Functii.runtimeconfig.json
+C:\Users\carla\source\repos\Functii\bin\Debug\netcoreapp3.0\Functii.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Functii\bin\Debug\netcoreapp3.0\Functii.dll
+C:\Users\carla\source\repos\Functii\bin\Debug\netcoreapp3.0\Functii.pdb
+C:\Users\carla\source\repos\Functii\obj\Debug\netcoreapp3.0\Functii.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Functii\obj\Debug\netcoreapp3.0\Functii.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Functii\obj\Debug\netcoreapp3.0\Functii.AssemblyInfo.cs
+C:\Users\carla\source\repos\Functii\obj\Debug\netcoreapp3.0\Functii.dll
+C:\Users\carla\source\repos\Functii\obj\Debug\netcoreapp3.0\Functii.pdb

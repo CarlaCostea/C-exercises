@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\Base5toBase10\bin\Debug\netcoreapp3.1\Base5toBase10.exe
+C:\Users\carla\source\repos\Base5toBase10\bin\Debug\netcoreapp3.1\Base5toBase10.deps.json
+C:\Users\carla\source\repos\Base5toBase10\bin\Debug\netcoreapp3.1\Base5toBase10.runtimeconfig.json
+C:\Users\carla\source\repos\Base5toBase10\bin\Debug\netcoreapp3.1\Base5toBase10.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Base5toBase10\bin\Debug\netcoreapp3.1\Base5toBase10.dll
+C:\Users\carla\source\repos\Base5toBase10\bin\Debug\netcoreapp3.1\Base5toBase10.pdb
+C:\Users\carla\source\repos\Base5toBase10\obj\Debug\netcoreapp3.1\Base5toBase10.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Base5toBase10\obj\Debug\netcoreapp3.1\Base5toBase10.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Base5toBase10\obj\Debug\netcoreapp3.1\Base5toBase10.AssemblyInfo.cs
+C:\Users\carla\source\repos\Base5toBase10\obj\Debug\netcoreapp3.1\Base5toBase10.dll
+C:\Users\carla\source\repos\Base5toBase10\obj\Debug\netcoreapp3.1\Base5toBase10.pdb

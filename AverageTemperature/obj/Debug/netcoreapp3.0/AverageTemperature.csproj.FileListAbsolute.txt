@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\AverageTemperature\bin\Debug\netcoreapp3.0\AverageTemperature.exe
+C:\Users\carla\source\repos\AverageTemperature\bin\Debug\netcoreapp3.0\AverageTemperature.deps.json
+C:\Users\carla\source\repos\AverageTemperature\bin\Debug\netcoreapp3.0\AverageTemperature.runtimeconfig.json
+C:\Users\carla\source\repos\AverageTemperature\bin\Debug\netcoreapp3.0\AverageTemperature.runtimeconfig.dev.json
+C:\Users\carla\source\repos\AverageTemperature\bin\Debug\netcoreapp3.0\AverageTemperature.dll
+C:\Users\carla\source\repos\AverageTemperature\bin\Debug\netcoreapp3.0\AverageTemperature.pdb
+C:\Users\carla\source\repos\AverageTemperature\obj\Debug\netcoreapp3.0\AverageTemperature.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\AverageTemperature\obj\Debug\netcoreapp3.0\AverageTemperature.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\AverageTemperature\obj\Debug\netcoreapp3.0\AverageTemperature.AssemblyInfo.cs
+C:\Users\carla\source\repos\AverageTemperature\obj\Debug\netcoreapp3.0\AverageTemperature.dll
+C:\Users\carla\source\repos\AverageTemperature\obj\Debug\netcoreapp3.0\AverageTemperature.pdb

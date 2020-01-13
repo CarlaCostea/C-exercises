@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\testnote\obj\Debug\netcoreapp3.0\testnote.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\testnote\obj\Debug\netcoreapp3.0\testnote.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\testnote\obj\Debug\netcoreapp3.0\testnote.AssemblyInfo.cs
+C:\Users\carla\source\repos\testnote\bin\Debug\netcoreapp3.0\testnote.exe
+C:\Users\carla\source\repos\testnote\bin\Debug\netcoreapp3.0\testnote.deps.json
+C:\Users\carla\source\repos\testnote\bin\Debug\netcoreapp3.0\testnote.runtimeconfig.json
+C:\Users\carla\source\repos\testnote\bin\Debug\netcoreapp3.0\testnote.runtimeconfig.dev.json
+C:\Users\carla\source\repos\testnote\bin\Debug\netcoreapp3.0\testnote.dll
+C:\Users\carla\source\repos\testnote\bin\Debug\netcoreapp3.0\testnote.pdb
+C:\Users\carla\source\repos\testnote\obj\Debug\netcoreapp3.0\testnote.dll
+C:\Users\carla\source\repos\testnote\obj\Debug\netcoreapp3.0\testnote.pdb

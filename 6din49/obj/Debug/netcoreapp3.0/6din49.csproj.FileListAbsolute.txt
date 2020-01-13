@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\6din49\bin\Debug\netcoreapp3.0\6din49.exe
+C:\Users\carla\source\repos\6din49\bin\Debug\netcoreapp3.0\6din49.deps.json
+C:\Users\carla\source\repos\6din49\bin\Debug\netcoreapp3.0\6din49.runtimeconfig.json
+C:\Users\carla\source\repos\6din49\bin\Debug\netcoreapp3.0\6din49.runtimeconfig.dev.json
+C:\Users\carla\source\repos\6din49\bin\Debug\netcoreapp3.0\6din49.dll
+C:\Users\carla\source\repos\6din49\bin\Debug\netcoreapp3.0\6din49.pdb
+C:\Users\carla\source\repos\6din49\obj\Debug\netcoreapp3.0\6din49.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\6din49\obj\Debug\netcoreapp3.0\6din49.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\6din49\obj\Debug\netcoreapp3.0\6din49.AssemblyInfo.cs
+C:\Users\carla\source\repos\6din49\obj\Debug\netcoreapp3.0\6din49.dll
+C:\Users\carla\source\repos\6din49\obj\Debug\netcoreapp3.0\6din49.pdb

@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\bin\Debug\netcoreapp2.0\SwapArrayValues.deps.json
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\bin\Debug\netcoreapp2.0\SwapArrayValues.runtimeconfig.json
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\bin\Debug\netcoreapp2.0\SwapArrayValues.runtimeconfig.dev.json
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\bin\Debug\netcoreapp2.0\SwapArrayValues.dll
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\bin\Debug\netcoreapp2.0\SwapArrayValues.pdb
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\obj\Debug\netcoreapp2.0\SwapArrayValues.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\obj\Debug\netcoreapp2.0\SwapArrayValues.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\obj\Debug\netcoreapp2.0\SwapArrayValues.AssemblyInfo.cs
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\obj\Debug\netcoreapp2.0\SwapArrayValues.dll
+C:\Users\carla\source\repos\SwapArrayValues\SwapArrayValues\obj\Debug\netcoreapp2.0\SwapArrayValues.pdb

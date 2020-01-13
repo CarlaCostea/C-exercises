@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\Depanare\bin\Debug\netcoreapp3.0\Depanare.exe
+C:\Users\carla\source\repos\Depanare\bin\Debug\netcoreapp3.0\Depanare.deps.json
+C:\Users\carla\source\repos\Depanare\bin\Debug\netcoreapp3.0\Depanare.runtimeconfig.json
+C:\Users\carla\source\repos\Depanare\bin\Debug\netcoreapp3.0\Depanare.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Depanare\bin\Debug\netcoreapp3.0\Depanare.dll
+C:\Users\carla\source\repos\Depanare\bin\Debug\netcoreapp3.0\Depanare.pdb
+C:\Users\carla\source\repos\Depanare\obj\Debug\netcoreapp3.0\Depanare.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Depanare\obj\Debug\netcoreapp3.0\Depanare.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Depanare\obj\Debug\netcoreapp3.0\Depanare.AssemblyInfo.cs
+C:\Users\carla\source\repos\Depanare\obj\Debug\netcoreapp3.0\Depanare.dll
+C:\Users\carla\source\repos\Depanare\obj\Debug\netcoreapp3.0\Depanare.pdb

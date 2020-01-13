@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\SwapChar\bin\Debug\netcoreapp3.1\SwapChar.exe
+C:\Users\carla\source\repos\SwapChar\bin\Debug\netcoreapp3.1\SwapChar.deps.json
+C:\Users\carla\source\repos\SwapChar\bin\Debug\netcoreapp3.1\SwapChar.runtimeconfig.json
+C:\Users\carla\source\repos\SwapChar\bin\Debug\netcoreapp3.1\SwapChar.runtimeconfig.dev.json
+C:\Users\carla\source\repos\SwapChar\bin\Debug\netcoreapp3.1\SwapChar.dll
+C:\Users\carla\source\repos\SwapChar\bin\Debug\netcoreapp3.1\SwapChar.pdb
+C:\Users\carla\source\repos\SwapChar\obj\Debug\netcoreapp3.1\SwapChar.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\SwapChar\obj\Debug\netcoreapp3.1\SwapChar.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\SwapChar\obj\Debug\netcoreapp3.1\SwapChar.AssemblyInfo.cs
+C:\Users\carla\source\repos\SwapChar\obj\Debug\netcoreapp3.1\SwapChar.dll
+C:\Users\carla\source\repos\SwapChar\obj\Debug\netcoreapp3.1\SwapChar.pdb

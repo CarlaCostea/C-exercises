@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\ReversedPhrase\bin\Debug\netcoreapp2.1\ReversedPhrase.deps.json
+C:\Users\carla\source\repos\ReversedPhrase\bin\Debug\netcoreapp2.1\ReversedPhrase.runtimeconfig.json
+C:\Users\carla\source\repos\ReversedPhrase\bin\Debug\netcoreapp2.1\ReversedPhrase.runtimeconfig.dev.json
+C:\Users\carla\source\repos\ReversedPhrase\bin\Debug\netcoreapp2.1\ReversedPhrase.dll
+C:\Users\carla\source\repos\ReversedPhrase\bin\Debug\netcoreapp2.1\ReversedPhrase.pdb
+C:\Users\carla\source\repos\ReversedPhrase\obj\Debug\netcoreapp2.1\ReversedPhrase.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\ReversedPhrase\obj\Debug\netcoreapp2.1\ReversedPhrase.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\ReversedPhrase\obj\Debug\netcoreapp2.1\ReversedPhrase.AssemblyInfo.cs
+C:\Users\carla\source\repos\ReversedPhrase\obj\Debug\netcoreapp2.1\ReversedPhrase.dll
+C:\Users\carla\source\repos\ReversedPhrase\obj\Debug\netcoreapp2.1\ReversedPhrase.pdb
