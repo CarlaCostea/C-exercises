@@ -19,7 +19,8 @@ namespace BinaryOperations
         private const string OperationCodeEqual = "11";
         private const string OperationCodeNotEqual = "12";
         private const string OperationAdd = "13";
-        private const string InvalidOperation = "14";
+        private const string OperationSub = "14";
+        private const string InvalidOperation = "15";
 
         public static void Main()
         {
@@ -294,7 +295,7 @@ namespace BinaryOperations
             return "true";
         }
 
-        public static string ArithmeticalOperations(string v1, string v2)
+        public static string Addition(string v1, string v2)
         {
             if (v1 == null || v2 == null)
             {
@@ -320,6 +321,39 @@ namespace BinaryOperations
             }
 
             return CutZeroFromBeginning(ReverseString(ref result));
+        }
+
+        public static string Substraction(string v1, string v2)
+        {
+            if (v1 == null || v2 == null)
+            {
+                return "0";
+            }
+
+            if (!ValidBaseTwoNumber(v1) || !ValidBaseTwoNumber(v2))
+            {
+                return Error;
+            }
+
+            v1 = CutZeroFromBeginning(v1);
+            v2 = CutZeroFromBeginning(v2);
+            string smaller = "";
+            string bigger = "";
+            if (CompareLessThan(v1, v2) == "false")
+            {
+                smaller = v2;
+                bigger = v1;
+            }
+            else
+            {
+                smaller = v1;
+                bigger = v2;
+            }
+
+            smaller = MakeThemEqual(bigger, smaller);
+            string complement = OperationNOT(smaller);
+            string result = Addition(Addition(complement, "1"), bigger);
+            return CutZeroFromBeginning(result.Remove(0, 1));
         }
 
         private static string ReverseString(ref string s)
@@ -434,7 +468,7 @@ namespace BinaryOperations
                     Console.WriteLine(CompareLessThan(Console.ReadLine(), Console.ReadLine()));
                     return;
                 case OperationCodeCompareGreaterThan:
-                    CompareGreaterThan(Console.ReadLine(), Console.ReadLine());
+                    Console.WriteLine(CompareGreaterThan(Console.ReadLine(), Console.ReadLine()));
                     return;
                 case OperationCodeEqual:
                     Console.WriteLine(Equal(Console.ReadLine(), Console.ReadLine()));
@@ -447,9 +481,9 @@ namespace BinaryOperations
             }
         }
 
-        private static void CompareGreaterThan(string v1, string v2)
+        private static string CompareGreaterThan(string v1, string v2)
         {
-            Console.WriteLine(CompareLessThan(v2, v1));
+            return CompareLessThan(v2, v1);
         }
 
         private static void ExecuteShiftOperations(string operationCode)
@@ -501,12 +535,17 @@ namespace BinaryOperations
 
         private static void ExecuteArithmeticalOperations(string operationCode)
             {
-            if (operationCode != OperationAdd)
+            switch (operationCode)
             {
-                return;
+                case OperationAdd:
+                    Console.WriteLine(Addition(Console.ReadLine(), Console.ReadLine()));
+                    return;
+                case OperationSub:
+                    Console.WriteLine(Substraction(Console.ReadLine(), Console.ReadLine()));
+                    return;
+                default:
+                    return;
             }
-
-            Console.WriteLine(ArithmeticalOperations(Console.ReadLine(), Console.ReadLine()));
         }
     }
 }
