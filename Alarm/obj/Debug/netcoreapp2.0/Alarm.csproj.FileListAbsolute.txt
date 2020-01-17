@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\Alarm\bin\Debug\netcoreapp2.0\Alarm.deps.json
+C:\Users\carla\source\repos\Alarm\bin\Debug\netcoreapp2.0\Alarm.runtimeconfig.json
+C:\Users\carla\source\repos\Alarm\bin\Debug\netcoreapp2.0\Alarm.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Alarm\bin\Debug\netcoreapp2.0\Alarm.dll
+C:\Users\carla\source\repos\Alarm\bin\Debug\netcoreapp2.0\Alarm.pdb
+C:\Users\carla\source\repos\Alarm\obj\Debug\netcoreapp2.0\Alarm.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Alarm\obj\Debug\netcoreapp2.0\Alarm.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Alarm\obj\Debug\netcoreapp2.0\Alarm.AssemblyInfo.cs
+C:\Users\carla\source\repos\Alarm\obj\Debug\netcoreapp2.0\Alarm.dll
+C:\Users\carla\source\repos\Alarm\obj\Debug\netcoreapp2.0\Alarm.pdb
