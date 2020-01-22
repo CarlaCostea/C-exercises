@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\ReplaceChar\bin\Debug\netcoreapp3.1\ReplaceChar.exe
+C:\Users\carla\source\repos\ReplaceChar\bin\Debug\netcoreapp3.1\ReplaceChar.deps.json
+C:\Users\carla\source\repos\ReplaceChar\bin\Debug\netcoreapp3.1\ReplaceChar.runtimeconfig.json
+C:\Users\carla\source\repos\ReplaceChar\bin\Debug\netcoreapp3.1\ReplaceChar.runtimeconfig.dev.json
+C:\Users\carla\source\repos\ReplaceChar\bin\Debug\netcoreapp3.1\ReplaceChar.dll
+C:\Users\carla\source\repos\ReplaceChar\bin\Debug\netcoreapp3.1\ReplaceChar.pdb
+C:\Users\carla\source\repos\ReplaceChar\obj\Debug\netcoreapp3.1\ReplaceChar.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\ReplaceChar\obj\Debug\netcoreapp3.1\ReplaceChar.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\ReplaceChar\obj\Debug\netcoreapp3.1\ReplaceChar.AssemblyInfo.cs
+C:\Users\carla\source\repos\ReplaceChar\obj\Debug\netcoreapp3.1\ReplaceChar.dll
+C:\Users\carla\source\repos\ReplaceChar\obj\Debug\netcoreapp3.1\ReplaceChar.pdb

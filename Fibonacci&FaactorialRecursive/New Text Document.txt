@@ -1,0 +1,26 @@
+Problema de rezolvat:
+
+Să se scrie o aplicație consolă ce, pentru un N dat, calculează recursiv și întoarce elementul din șirul lui Fibonacci de pe poziția N.
+Șirul Fibonacii este o serie de numere: 0, 1, 1, 2, 3, 5, 8, 13, 21, ...
+
+Exemplu:
+
+Pentru datele de intrare:
+
+7
+La consolă se va afișa:
+
+13
+
+Problema de rezolvat:
+
+Să se scrie o aplicație consolă ce calculează recursiv N factorial.
+
+Exemplu:
+
+Pentru datele de intrare:
+
+4
+La consolă se va afișa:
+
+24
