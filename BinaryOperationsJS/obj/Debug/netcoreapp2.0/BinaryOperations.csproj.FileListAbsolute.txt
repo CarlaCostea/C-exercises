@@ -1,0 +1,10 @@
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.csprojAssemblyReference.cache
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.AssemblyInfoInputs.cache
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.AssemblyInfo.cs
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.deps.json
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.runtimeconfig.json
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.runtimeconfig.dev.json
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.dll
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\bin\Debug\netcoreapp2.0\BinaryOperations.pdb
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.dll
+C:\Users\carla\Downloads\binary-factorial\BinaryOperations\obj\Debug\netcoreapp2.0\BinaryOperations.pdb

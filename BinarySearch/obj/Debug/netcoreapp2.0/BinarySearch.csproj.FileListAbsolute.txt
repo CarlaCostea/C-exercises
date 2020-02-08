@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.deps.json
+C:\Users\carla\source\repos\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.runtimeconfig.json
+C:\Users\carla\source\repos\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.runtimeconfig.dev.json
+C:\Users\carla\source\repos\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.dll
+C:\Users\carla\source\repos\BinarySearch\bin\Debug\netcoreapp2.0\BinarySearch.pdb
+C:\Users\carla\source\repos\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.AssemblyInfo.cs
+C:\Users\carla\source\repos\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.dll
+C:\Users\carla\source\repos\BinarySearch\obj\Debug\netcoreapp2.0\BinarySearch.pdb

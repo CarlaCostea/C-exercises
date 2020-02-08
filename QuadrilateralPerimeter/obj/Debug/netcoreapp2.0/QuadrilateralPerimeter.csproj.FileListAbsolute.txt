@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\QuadrilateralPerimeter\bin\Debug\netcoreapp2.0\QuadrilateralPerimeter.deps.json
+C:\Users\carla\source\repos\QuadrilateralPerimeter\bin\Debug\netcoreapp2.0\QuadrilateralPerimeter.runtimeconfig.json
+C:\Users\carla\source\repos\QuadrilateralPerimeter\bin\Debug\netcoreapp2.0\QuadrilateralPerimeter.runtimeconfig.dev.json
+C:\Users\carla\source\repos\QuadrilateralPerimeter\bin\Debug\netcoreapp2.0\QuadrilateralPerimeter.dll
+C:\Users\carla\source\repos\QuadrilateralPerimeter\bin\Debug\netcoreapp2.0\QuadrilateralPerimeter.pdb
+C:\Users\carla\source\repos\QuadrilateralPerimeter\obj\Debug\netcoreapp2.0\QuadrilateralPerimeter.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\QuadrilateralPerimeter\obj\Debug\netcoreapp2.0\QuadrilateralPerimeter.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\QuadrilateralPerimeter\obj\Debug\netcoreapp2.0\QuadrilateralPerimeter.AssemblyInfo.cs
+C:\Users\carla\source\repos\QuadrilateralPerimeter\obj\Debug\netcoreapp2.0\QuadrilateralPerimeter.dll
+C:\Users\carla\source\repos\QuadrilateralPerimeter\obj\Debug\netcoreapp2.0\QuadrilateralPerimeter.pdb

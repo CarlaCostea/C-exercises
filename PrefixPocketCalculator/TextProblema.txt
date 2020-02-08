@@ -1,0 +1,24 @@
+Problema de rezolvat:
+
+Scrie un program care imită un calculator de buzunar în formă prefixată.
+
+Operațiile posibile sunt:
+- adunare/scădere
+- înmulțire/împărțire
+- suportă numere reale
+
+Notă: În forma prefixată operatorii apar înainte operanzilor.
+Exemple pentru format prefixată:
+
+1.  * 3 4 e echivalent cu 3 * 4
+2.  * + 1 1 2 e echivalent cu (1 + 1) * 2
+3.  + / * + 56 45 46 3 - 1 0.25 e echivalent cu ((56 + 45) * 46) / 3 + (1 - 0.25)
+
+Exemplu:
+
+Pentru datele de intrare:
+
+* + 15 1 2
+La consolă se va afișa:
+
+32

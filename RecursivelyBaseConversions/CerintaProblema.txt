@@ -1,0 +1,10 @@
+Să se scrie o aplicație consolă ce convertește, folosind un algoritm recursiv, un număr dat din baza 16 în baza 10.
+
+Exemplu:
+
+Pentru datele de intrare:
+
+12F
+La consolă se va afișa:
+
+303

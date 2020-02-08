@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\QuickSortSortByName\bin\Debug\netcoreapp2.0\SortByName.deps.json
+C:\Users\carla\source\repos\QuickSortSortByName\bin\Debug\netcoreapp2.0\SortByName.runtimeconfig.json
+C:\Users\carla\source\repos\QuickSortSortByName\bin\Debug\netcoreapp2.0\SortByName.runtimeconfig.dev.json
+C:\Users\carla\source\repos\QuickSortSortByName\bin\Debug\netcoreapp2.0\SortByName.dll
+C:\Users\carla\source\repos\QuickSortSortByName\bin\Debug\netcoreapp2.0\SortByName.pdb
+C:\Users\carla\source\repos\QuickSortSortByName\obj\Debug\netcoreapp2.0\SortByName.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\QuickSortSortByName\obj\Debug\netcoreapp2.0\SortByName.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\QuickSortSortByName\obj\Debug\netcoreapp2.0\SortByName.AssemblyInfo.cs
+C:\Users\carla\source\repos\QuickSortSortByName\obj\Debug\netcoreapp2.0\SortByName.dll
+C:\Users\carla\source\repos\QuickSortSortByName\obj\Debug\netcoreapp2.0\SortByName.pdb

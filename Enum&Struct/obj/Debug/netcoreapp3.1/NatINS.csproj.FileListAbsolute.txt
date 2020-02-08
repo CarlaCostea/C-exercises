@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\Enum&Struct\bin\Debug\netcoreapp3.1\NatINS.exe
+C:\Users\carla\source\repos\Enum&Struct\bin\Debug\netcoreapp3.1\NatINS.deps.json
+C:\Users\carla\source\repos\Enum&Struct\bin\Debug\netcoreapp3.1\NatINS.runtimeconfig.json
+C:\Users\carla\source\repos\Enum&Struct\bin\Debug\netcoreapp3.1\NatINS.runtimeconfig.dev.json
+C:\Users\carla\source\repos\Enum&Struct\bin\Debug\netcoreapp3.1\NatINS.dll
+C:\Users\carla\source\repos\Enum&Struct\bin\Debug\netcoreapp3.1\NatINS.pdb
+C:\Users\carla\source\repos\Enum&Struct\obj\Debug\netcoreapp3.1\NatINS.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\Enum&Struct\obj\Debug\netcoreapp3.1\NatINS.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\Enum&Struct\obj\Debug\netcoreapp3.1\NatINS.AssemblyInfo.cs
+C:\Users\carla\source\repos\Enum&Struct\obj\Debug\netcoreapp3.1\NatINS.dll
+C:\Users\carla\source\repos\Enum&Struct\obj\Debug\netcoreapp3.1\NatINS.pdb

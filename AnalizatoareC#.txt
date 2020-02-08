@@ -1,0 +1,15 @@
+Microsoft.CodeAnalysis.FxCopAnalyzers
+
+Roslynator.Analyzers
+
+SonarAnalyzer.CSharp
+
+StyleCop.Analyzers
+
+În Solution Explorer > clic dreapta pe proiect > selectează opțiunea Edit <numele proiectului tău>.csproj
+
+<PropertyGroup>
+    <CodeAnalysisRuleSet>juniormind.ruleset</CodeAnalysisRuleSet>
+</PropertyGroup>
+
+

@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\MergeSortRunningContest\bin\Debug\netcoreapp2.0\RunningContest.deps.json
+C:\Users\carla\source\repos\MergeSortRunningContest\bin\Debug\netcoreapp2.0\RunningContest.runtimeconfig.json
+C:\Users\carla\source\repos\MergeSortRunningContest\bin\Debug\netcoreapp2.0\RunningContest.runtimeconfig.dev.json
+C:\Users\carla\source\repos\MergeSortRunningContest\bin\Debug\netcoreapp2.0\RunningContest.dll
+C:\Users\carla\source\repos\MergeSortRunningContest\bin\Debug\netcoreapp2.0\RunningContest.pdb
+C:\Users\carla\source\repos\MergeSortRunningContest\obj\Debug\netcoreapp2.0\RunningContest.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\MergeSortRunningContest\obj\Debug\netcoreapp2.0\RunningContest.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\MergeSortRunningContest\obj\Debug\netcoreapp2.0\RunningContest.AssemblyInfo.cs
+C:\Users\carla\source\repos\MergeSortRunningContest\obj\Debug\netcoreapp2.0\RunningContest.dll
+C:\Users\carla\source\repos\MergeSortRunningContest\obj\Debug\netcoreapp2.0\RunningContest.pdb

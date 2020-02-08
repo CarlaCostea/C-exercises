@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\PrefixPocketCalculator\bin\Debug\netcoreapp3.1\PrefixPocketCalculator.exe
+C:\Users\carla\source\repos\PrefixPocketCalculator\bin\Debug\netcoreapp3.1\PrefixPocketCalculator.deps.json
+C:\Users\carla\source\repos\PrefixPocketCalculator\bin\Debug\netcoreapp3.1\PrefixPocketCalculator.runtimeconfig.json
+C:\Users\carla\source\repos\PrefixPocketCalculator\bin\Debug\netcoreapp3.1\PrefixPocketCalculator.runtimeconfig.dev.json
+C:\Users\carla\source\repos\PrefixPocketCalculator\bin\Debug\netcoreapp3.1\PrefixPocketCalculator.dll
+C:\Users\carla\source\repos\PrefixPocketCalculator\bin\Debug\netcoreapp3.1\PrefixPocketCalculator.pdb
+C:\Users\carla\source\repos\PrefixPocketCalculator\obj\Debug\netcoreapp3.1\PrefixPocketCalculator.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\PrefixPocketCalculator\obj\Debug\netcoreapp3.1\PrefixPocketCalculator.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\PrefixPocketCalculator\obj\Debug\netcoreapp3.1\PrefixPocketCalculator.AssemblyInfo.cs
+C:\Users\carla\source\repos\PrefixPocketCalculator\obj\Debug\netcoreapp3.1\PrefixPocketCalculator.dll
+C:\Users\carla\source\repos\PrefixPocketCalculator\obj\Debug\netcoreapp3.1\PrefixPocketCalculator.pdb

@@ -1,0 +1,27 @@
+Să se scrie o aplicație consolă ce ordonează cazurile în ordine descrescătoare a priorității.
+
+Important: Implementează algoritmul Quick3Sort pentru a rezolva problema. Acesta este o soluție de sortare foarte eficientă pentru cazurile când datele ce trebuie ordonate au un număr limitat de valori posibile.
+
+Exemplu:
+
+Pentru datele de intrare:
+
+8
+1 - Incorrect behavior - Medium
+2 - Device not working - Important
+3 - Battery drain - Important
+4 - Device immediately turns off - Critical
+5 - Strange behavior - Low
+6 - Occasionally freeze - Critical
+7 - Application not working - Low
+8 - Internet connection problems - Medium
+La consolă se va afișa:
+
+6 - Occasionally freeze - Critical
+4 - Device immediately turns off - Critical
+3 - Battery drain - Important
+2 - Device not working - Important
+1 - Incorrect behavior - Medium
+8 - Internet connection problems - Medium
+7 - Application not working - Low
+5 - Strange behavior - Low

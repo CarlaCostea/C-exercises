@@ -1,0 +1,23 @@
+Problema:
+
+Se dă o listă ordonată crescător de numere întregi, pe o singură linie, despărțite între ele printr-un singur spațiu.
+Pe linia următoare se dă un număr întreg M.
+
+Să se scrie o aplicație consolă ce folosește algoritmul de căutare binară pentru a determina indexul numărului M în lista de numere. Dacă M nu se află în șir atunci se va tipări -1.
+
+Important:
+Aplicația trebuie să afișeze logul complet de comparări făcute pentru a determina dacă M se află în listă. Pentru a genera logul de comparări trebuie folosită funcția CheckNumberAtIndex (vezi proiectul atașat problemei) de fiecare dată când se verifică dacă numărul din șir de la un anumit index e egal cu M.
+
+Exemplu:
+
+Pentru datele de intrare:
+
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181
+100
+La consolă se va afișa:
+
+Checking index 9 (value 34)
+Checking index 14 (value 377)
+Checking index 11 (value 89)
+Checking index 12 (value 144)
+-1

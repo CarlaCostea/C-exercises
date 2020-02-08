@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\RecursiveExercise\bin\Debug\netcoreapp3.1\RecursiveExercise.exe
+C:\Users\carla\source\repos\RecursiveExercise\bin\Debug\netcoreapp3.1\RecursiveExercise.deps.json
+C:\Users\carla\source\repos\RecursiveExercise\bin\Debug\netcoreapp3.1\RecursiveExercise.runtimeconfig.json
+C:\Users\carla\source\repos\RecursiveExercise\bin\Debug\netcoreapp3.1\RecursiveExercise.runtimeconfig.dev.json
+C:\Users\carla\source\repos\RecursiveExercise\bin\Debug\netcoreapp3.1\RecursiveExercise.dll
+C:\Users\carla\source\repos\RecursiveExercise\bin\Debug\netcoreapp3.1\RecursiveExercise.pdb
+C:\Users\carla\source\repos\RecursiveExercise\obj\Debug\netcoreapp3.1\RecursiveExercise.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\RecursiveExercise\obj\Debug\netcoreapp3.1\RecursiveExercise.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\RecursiveExercise\obj\Debug\netcoreapp3.1\RecursiveExercise.AssemblyInfo.cs
+C:\Users\carla\source\repos\RecursiveExercise\obj\Debug\netcoreapp3.1\RecursiveExercise.dll
+C:\Users\carla\source\repos\RecursiveExercise\obj\Debug\netcoreapp3.1\RecursiveExercise.pdb

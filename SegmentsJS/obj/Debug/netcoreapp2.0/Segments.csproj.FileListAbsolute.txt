@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\SegmentsJS\bin\Debug\netcoreapp2.0\Segments.deps.json
+C:\Users\carla\source\repos\SegmentsJS\bin\Debug\netcoreapp2.0\Segments.runtimeconfig.json
+C:\Users\carla\source\repos\SegmentsJS\bin\Debug\netcoreapp2.0\Segments.runtimeconfig.dev.json
+C:\Users\carla\source\repos\SegmentsJS\bin\Debug\netcoreapp2.0\Segments.dll
+C:\Users\carla\source\repos\SegmentsJS\bin\Debug\netcoreapp2.0\Segments.pdb
+C:\Users\carla\source\repos\SegmentsJS\obj\Debug\netcoreapp2.0\Segments.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\SegmentsJS\obj\Debug\netcoreapp2.0\Segments.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\SegmentsJS\obj\Debug\netcoreapp2.0\Segments.AssemblyInfo.cs
+C:\Users\carla\source\repos\SegmentsJS\obj\Debug\netcoreapp2.0\Segments.dll
+C:\Users\carla\source\repos\SegmentsJS\obj\Debug\netcoreapp2.0\Segments.pdb

@@ -1,0 +1,10 @@
+C:\Users\carla\source\repos\QuickSortPriorities\bin\Debug\netcoreapp2.0\SupportCases.deps.json
+C:\Users\carla\source\repos\QuickSortPriorities\bin\Debug\netcoreapp2.0\SupportCases.runtimeconfig.json
+C:\Users\carla\source\repos\QuickSortPriorities\bin\Debug\netcoreapp2.0\SupportCases.runtimeconfig.dev.json
+C:\Users\carla\source\repos\QuickSortPriorities\bin\Debug\netcoreapp2.0\SupportCases.dll
+C:\Users\carla\source\repos\QuickSortPriorities\bin\Debug\netcoreapp2.0\SupportCases.pdb
+C:\Users\carla\source\repos\QuickSortPriorities\obj\Debug\netcoreapp2.0\SupportCases.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\QuickSortPriorities\obj\Debug\netcoreapp2.0\SupportCases.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\QuickSortPriorities\obj\Debug\netcoreapp2.0\SupportCases.AssemblyInfo.cs
+C:\Users\carla\source\repos\QuickSortPriorities\obj\Debug\netcoreapp2.0\SupportCases.dll
+C:\Users\carla\source\repos\QuickSortPriorities\obj\Debug\netcoreapp2.0\SupportCases.pdb

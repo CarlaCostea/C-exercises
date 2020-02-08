@@ -1,0 +1,32 @@
+Problema de rezolvat:
+
+Descarcă proiectul atașat problemei și continuă rezolvarea. Trebuie implementată funcția GetPasswordComplexityLevel și apoi se trimite – ca de obicei – fișierul Program.cs pentru validare.
+
+Problema:
+
+Să se scrie o aplicație consolă ce primește o parolă și întoarce nivelul de complexitate al acesteia: high, medium, low.
+
+Parola are complexitate ridicată dacă îndeplinește toate condițiile de mai jos:
+
+numărul minim de litere mici: 5
+numărul minim de litere mari: 2
+numărul minim de cifre: 2
+numărul minim de simboluri: 2
+poate conține caractere similare(l, 1, I, o, 0, O): true
+poate conține caractere ambigue ({}[]()/\'"~,;.<>): true
+Parola are complexitate medie dacă îndeplinește toate condițiile de mai jos:
+
+numărul minim de litere mici: 3
+numărul minim de litere mari: 1
+numărul minim de cifre: 1
+numărul minim de simboluri: 1
+poate conține caractere similare(l, 1, I, o, 0, O): true
+poate conține caractere ambigue ({}[]()/\'"~,;.<>): true
+Exemplu:
+
+Pentru datele de intrare:
+
+abcdeA2+
+La consolă se va afișa:
+
+medium

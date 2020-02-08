@@ -1,0 +1,11 @@
+C:\Users\carla\source\repos\RecursivelyBaseConversions\bin\Debug\netcoreapp3.1\RecursivelyBaseConversions.exe
+C:\Users\carla\source\repos\RecursivelyBaseConversions\obj\Debug\netcoreapp3.1\RecursivelyBaseConversions.csprojAssemblyReference.cache
+C:\Users\carla\source\repos\RecursivelyBaseConversions\obj\Debug\netcoreapp3.1\RecursivelyBaseConversions.AssemblyInfoInputs.cache
+C:\Users\carla\source\repos\RecursivelyBaseConversions\obj\Debug\netcoreapp3.1\RecursivelyBaseConversions.AssemblyInfo.cs
+C:\Users\carla\source\repos\RecursivelyBaseConversions\bin\Debug\netcoreapp3.1\RecursivelyBaseConversions.deps.json
+C:\Users\carla\source\repos\RecursivelyBaseConversions\bin\Debug\netcoreapp3.1\RecursivelyBaseConversions.runtimeconfig.json
+C:\Users\carla\source\repos\RecursivelyBaseConversions\bin\Debug\netcoreapp3.1\RecursivelyBaseConversions.runtimeconfig.dev.json
+C:\Users\carla\source\repos\RecursivelyBaseConversions\bin\Debug\netcoreapp3.1\RecursivelyBaseConversions.dll
+C:\Users\carla\source\repos\RecursivelyBaseConversions\bin\Debug\netcoreapp3.1\RecursivelyBaseConversions.pdb
+C:\Users\carla\source\repos\RecursivelyBaseConversions\obj\Debug\netcoreapp3.1\RecursivelyBaseConversions.dll
+C:\Users\carla\source\repos\RecursivelyBaseConversions\obj\Debug\netcoreapp3.1\RecursivelyBaseConversions.pdb

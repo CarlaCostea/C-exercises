@@ -1,0 +1,62 @@
+În cadrul acestui test vom rezolva într-un mod cât mai optim câteva probleme de sortare.
+
+Stadiul 1 din 5
+
+Problema de rezolvat:
+
+Descarcă proiectul
+Descarcă proiectul atașat problemei și continuă rezolvarea. Trebuie implementată funcția BubbleSort și apoi se trimite – ca de obicei – fișierul Program.cs pentru validare.
+
+Problema:
+
+O aplicație consolă primește ca date de intrare clasamentul campionatului de fotbal a României pentru etapa trecută și punctele acumulate de fiecare echipă etapa curentă. Datele sunt introduse pe 14 linii (câte una pentru fiecare echipă), fiecare linie având următorul format:
+<nume echipă> - <număr puncte> - <puncte noi>
+
+Echipele sunt ordonate în ordine descrescătoare a punctelor acumulate până etapa trecută, iar aplicația trebuie să actualizeze clasamentul considerând punctele realizate în etapa curentă.
+
+Important:
+
+1. Implementează algoritmul BubbleSort pentru a rezolva problema. Acesta este o soluție eficientă atunci când datele sunt aproape ordonate, cum e situația în cazul de față.
+
+2. Aplicația trebuie să afișeze logul complet al schimbărilor de elemente făcut pe șir pentru a-l ordona. Pentru a genera logul de schimbări trebuie folosită funcția Swap (vezi proiectul atașat problemei) de fiecare dată când se schimbă două elemente din șir între ele.
+
+Exemplu:
+
+Pentru datele de intrare:
+
+CFR Cluj - 33 - 3
+FCSB - 31 - 0
+U Craiova - 29 - 3
+Dinamo - 23 - 1
+Viitorul - 22 - 0
+Astra Giurgiu - 22 - 3
+CSMS Iasi - 21 - 0
+FC Botosani - 21 - 1
+FC Voluntari - 17 - 0
+Chiajna - 15 - 3
+ACS Poli Tim - 14 - 0
+Sepsi OSK - 11 - 3
+Gaz Metan - 8 - 0
+Juventus - 7 - 3
+La consolă se va afișa:
+
+Swapping elements with indexes (1, 2) and values (FCSB , U Craiova )
+Swapping elements with indexes (4, 5) and values (Viitorul , Astra Giurgiu )
+Swapping elements with indexes (6, 7) and values (CSMS Iasi , FC Botosani )
+Swapping elements with indexes (8, 9) and values (FC Voluntari , Chiajna )
+Swapping elements with indexes (12, 13) and values (Gaz Metan , Juventus )
+Swapping elements with indexes (3, 4) and values (Dinamo , Astra Giurgiu )
+CFR Cluj - 36
+U Craiova - 32
+FCSB - 31
+Astra Giurgiu - 25
+Dinamo - 24
+Viitorul - 22
+FC Botosani - 22
+CSMS Iasi - 21
+Chiajna - 18
+FC Voluntari - 17
+ACS Poli Tim - 14
+Sepsi OSK - 14
+Juventus - 10
+Gaz Metan - 8

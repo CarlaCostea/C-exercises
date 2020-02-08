@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestingRecursivityExercise", "InterestingRecursivityExercise.csproj", "{D00A68CD-E537-4900-B11B-D4B836F0DF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D00A68CD-E537-4900-B11B-D4B836F0DF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00A68CD-E537-4900-B11B-D4B836F0DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00A68CD-E537-4900-B11B-D4B836F0DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00A68CD-E537-4900-B11B-D4B836F0DF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F410F4C-5E58-4E88-BB40-D99A2D3E2D5D}
+	EndGlobalSection
+EndGlobal

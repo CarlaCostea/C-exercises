@@ -1,0 +1,14 @@
+Problema:
+
+Se dă o listă aleatoare de numere întregi, pe o singură linie, despărțite între ele printr-un singur spațiu. Să se scrie o aplicație consolă ce ordonează crescător numerele din listă.
+
+Important: Implementează algoritmul ShellSort pentru a rezolva problema. Acesta este una dintre cele mai eficiente soluții generale de ordonare a datelor.
+
+Exemplu:
+
+Pentru datele de intrare:
+
+38 34 2 5 8 12 30 81 13 29
+La consolă se va afișa:
+
+2 5 8 12 13 29 30 34 38 81
